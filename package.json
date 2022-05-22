@@ -1,0 +1,23 @@
+{
+  "name": "typescript-introduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kothadiyasagar/TYPESCRIPT-INTRODUCTION.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kothadiyasagar/TYPESCRIPT-INTRODUCTION/issues"
+  },
+  "homepage": "https://github.com/kothadiyasagar/TYPESCRIPT-INTRODUCTION#readme",
+  "dependencies": {
+    "typescript": "^4.6.4"
+  }
+}
